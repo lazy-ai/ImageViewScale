@@ -1,6 +1,6 @@
 # ImageViewScale
 ImageView缩放不受限制
-
+···
  private void scale(String path){
         Point size = new Point();
 
@@ -30,3 +30,4 @@ ImageView缩放不受限制
 
         iv_chat_bg.setImageMatrix(matrix);
     }
+···
